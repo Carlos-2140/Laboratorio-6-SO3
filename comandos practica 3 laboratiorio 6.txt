@@ -1,3 +1,4 @@
+Instalacion de IDS snort
 Practica 3
 sudo dnf config-manager --set-enabled ol9_codeready_builder
 sudo dnf install epel-release -y
